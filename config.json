@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyconnect",
+        "uuid": 33342960,
+        "checksum": "fc6ow9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
